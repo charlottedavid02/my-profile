@@ -1,0 +1,71 @@
+body{
+	background-color: #ffe4c4;
+	color: (50, 50, 50);
+	font-family: Bodoni Moda;
+	font-size: 14px
+	font-weight: lighter;
+	margin: 80px;
+}
+
+#Ieseg-online {
+	color: turquoise;
+	font-family: Circular Air Pro;
+	font-weight: : 400;
+	font-size: 25px;
+	text-transform: uppercase;
+} 
+
+h1{
+	color: #5eaaa8;
+	font-family: Circular Air Pro;
+	font-weight: 800;
+	font-size: 22px;
+	text-transform: uppercase;
+}
+h2{
+	color: pink ;
+	font-family: Circular Air Pro;
+	font-weight: 800;
+	font-size: 22px;
+	text-transform: uppercase;
+}
+h3{
+	color: pink;
+	font-family: Circular Air Pro;
+	font-weight: 800;
+	font-size: 22px;
+	text-transform: uppercase;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+a {
+	color: black;
+}
+
+#LinkedIn-button{
+    color: #067bb6;
+    padding: 10px;
+}
+
+#Instagram-button{
+    color: #cd0077;
+    padding: 10px;
+}
+.jean-marc {
+	text-align: center;
+}
+.pierre {
+	border-radius: 50%;
+	padding: 15px;
+	background: #ffe4c4;
+
+}
+#bob {
+	color: white;
+	background: #ffe4c4;
+	margin-bottom: 5px;
+	border: 2px solid white;
+}
+
